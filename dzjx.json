@@ -15,7 +15,8 @@
 {"key":"drpy_js_凌云影视","name":"影视 | 凌云影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"},
 {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
 {"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星辰.js"},
-{"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"}
+{"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"},
+{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"}
 ],
 "lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/zhibo.txt"}],
 "rules":[
