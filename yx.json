@@ -17,28 +17,10 @@
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🐼豆瓣推荐 |",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
-    },
-    {
       "key": "csp_77",
       "name": "👒七七App",
       "type": 3,
       "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "荐片",
-      "name": "💁🏻‍♂️荐片磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
