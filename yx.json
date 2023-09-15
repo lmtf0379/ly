@@ -26,14 +26,6 @@
       "filterable": 1
     },
  {
-      "key": "贱贱",
-      "name": "🐭贱贱p2p",
-      "type": 3,
-      "playerType": "1",
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/jp.js"
-    },
- {
       "key": "虎牙",
       "name": "🐯虎牙采集",
       "type": 1,
