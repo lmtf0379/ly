@@ -16,17 +16,17 @@
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
-    {
-            “关键”：“南瓜”，
-            "name": "南瓜┃APP",
-            “类型”：3，
-            “可搜索”：1，
-            “快速搜索”：1，
-            "api": "http://xhww.fun:63/js/drpy2.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
-            “可变”：0
-        },
- {
+{
+    "key": "南瓜",
+    "name": "南瓜┃APP",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://xhww.fun:63/js/drpy2.min.js",
+    "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
+    "changeable": 0
+},
+   {
       "key": "虎牙",
       "name": "🐯虎牙采集",
       "type": 1,
