@@ -90,7 +90,18 @@
         "日本动漫",
         "欧美动漫"
       ]
-    }
+    },
+{
+    "key": "南瓜",
+    "name": "南瓜┃APP",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://xhww.fun:63/js/drpy2.min.js",
+    "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
+    "changeable": 0
+}
+
  ],
   "parses": [
     {
