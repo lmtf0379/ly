@@ -16,6 +16,14 @@
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
+{
+      "key": "drpy_js_腾云驾雾",
+      "name": "💘TX┃春盈",
+      "type": 3,
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/腾云驾雾.js",
+      "jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"
+    },
  {
       "key": "贱贱",
       "name": "🐭荐片p2p",
