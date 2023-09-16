@@ -16,7 +16,16 @@
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
-
+{
+    "key": "南瓜",
+    "name": "南瓜┃春盈",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://xhww.fun:63/js/drpy2.min.js",
+    "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
+    "changeable": 0
+},
  {
       "key": "虎牙",
       "name": "🐯虎牙采集",
