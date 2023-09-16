@@ -16,15 +16,6 @@
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
-    {
-      "key": "csp_77",
-      "name": "👒七七App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
  {
       "key": "虎牙",
       "name": "🐯虎牙采集",
