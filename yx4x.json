@@ -100,6 +100,37 @@
       ]
     },
 {
+      "key": "drpy_js_百忙无果",
+      "name": "💘春盈┃芒果",
+      "type": 3,
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/百忙无果.js",
+      "jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"
+    },
+ {
+    "key": "影图影院",
+    "name": "❤️春盈┃影图",
+    "api": "https://cj.vodimg.top/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 8
+  },
+{
+      "key": "gym",
+      "name": "❤️春盈┃光影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+      "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://gymcms.xn--654a.cc/api.php/app/"
+    },
+{
     "key": "南瓜",
     "name": "南瓜┃APP",
     "type": 3,
