@@ -139,7 +139,62 @@
     "api": "http://xhww.fun:63/js/drpy2.min.js",
     "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
     "changeable": 0
-}
+},
+		{
+			"key": "apv2_速看100",
+			"name": "星辰┃🚤速看",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "https://sk100.tv/api.php/app/"
+		},
+        {
+            "key": "360",
+            "name": "星辰┃🍳360",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/360%E5%BD%B1%E8%A7%86.js"
+        },
+       {
+            "key": "厂长",
+            "name": "星辰┃厂长",
+            "type": 3,
+            "playerType": 2,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8E%82%E9%95%BF.js"
+        },
+        {
+            "key": "荐片",
+            "name": "星辰┃🔪荐片",
+            "type": 3,
+            "playerType": 1,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/%E8%8D%90%E7%89%87.js"
+        },
+        {
+            "key": "两个bt",
+            "name": "💰星辰┃两个鼻涕",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/%E4%B8%A4%E4%B8%AAbt.js"
+        },
+		{
+			"key": "zycj_天天",
+			"name": "📅星辰┃天天",
+			"type": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php",
+			"playUrl": "",
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"韩国剧",
+				"欧美剧",
+				"大陆综艺"
+			]
+		}
 
  ],
   "parses": [
