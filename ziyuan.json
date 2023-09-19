@@ -1,5 +1,7 @@
 {
-"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",    
+"spider": "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6",
+"warningText": "接口由公众号【云星日记】免费提供",
+"wallpaper": "http://maoyingshi.cc/api.php",    
 "sites":[
 {"key": "豆瓣","name": "请勿相信片中虚假广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"csp_xml___光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
