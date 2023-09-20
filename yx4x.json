@@ -140,15 +140,6 @@
     "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
     "changeable": 0
 },
-		{
-			"key": "apv2_速看100",
-			"name": "星辰┃🚤速看",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "https://sk100.tv/api.php/app/"
-		},
         {
             "key": "360",
             "name": "星辰┃🍳360",
