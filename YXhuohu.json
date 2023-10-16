@@ -1,6 +1,18 @@
 {
   "spider": "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6",
-"lives":[{"name":"live","type":0,"url":"http://43.155.64.249/TVbox/TV/2.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="
+          ]
+        }
+      ]
+    }
+  ],
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
