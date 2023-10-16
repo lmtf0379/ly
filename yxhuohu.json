@@ -3,7 +3,10 @@
   
   "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   
-"lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [
+{"group": "redirect","channels": [{"name": "redirect","urls": [
+"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
+]}]}],
   
   "warningText":"白沙提示您：接口完全免费，切勿付费购买！",
   
