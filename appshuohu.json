@@ -9,7 +9,7 @@
   
   "sites":[
   
-  {"key":"js_豆瓣热播","name":"🔍白沙苏宁","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/163019/01douban.txt?sign=hd2rfaaFLqnu0bu19sejr2Iuimwu1jTiCjwFMjSqaKw%3D%3A0"},
+  {"key":"js_豆瓣热播","name":"🔍白沙苏宁丨提醒：请勿相信片中链接广告","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/163019/01douban.txt?sign=hd2rfaaFLqnu0bu19sejr2Iuimwu1jTiCjwFMjSqaKw%3D%3A0"},
      {
       "key": "火狐",
       "name": "🦊白沙苏宁1线",
