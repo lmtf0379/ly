@@ -10,39 +10,7 @@
   "sites":[
   
   {"key":"js_豆瓣热播","name":"🔍白沙苏宁丨提醒：请勿相信片中链接广告","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/163019/01douban.txt?sign=hd2rfaaFLqnu0bu19sejr2Iuimwu1jTiCjwFMjSqaKw%3D%3A0"},
- {
-      "key": "虎牙",
-      "name": "🐯白沙苏宁2线",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-    }
+{"key":"csp_xml___光速资源","name":"🐝光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
     ],
     "parses": [
         {
