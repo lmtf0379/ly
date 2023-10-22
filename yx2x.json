@@ -1,18 +1,6 @@
 {
   "spider": "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "https://pan.shangui.cc/f/pMEEcL/yswszb.txt"
-          ]
-        }
-      ]
-    }
-  ],
+ "lives":[{"name":"live","type":0,"url":"https://pan.shangui.cc/f/pMEEcL/yswszb.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "warningText": "接口由白沙免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
