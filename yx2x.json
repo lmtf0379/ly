@@ -1,12 +1,12 @@
 {
   "spider": "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6",
  "lives":[{"name":"live","type":0,"url":"https://gitee.com/lmtf/mmm/raw/master/baoquantv.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "warningText": "接口由白沙免费提供",
+  "warningText": "接口由白沙免费提供 请勿信片中虚假广告",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
       "key": "火狐",
-      "name": "🦊茶杯狐",
+      "name": "🦊主力源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -38,10 +38,10 @@
         "欧美动漫"
       ]
     },
- {"key":"csp_xml___光速资源","name":"🐝光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+ {"key":"csp_xml___光速资源","name":"🐝备用源1","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
        {
             "key": "南瓜",
-            "name": "🎃南瓜┃卡顿时请切换丶NG速播A丶源",
+            "name": "🎃备用源2┃卡顿时切换NG速播A源",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
