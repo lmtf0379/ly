@@ -1,7 +1,6 @@
 {
-"sites": [ {"key":"光速资源","name":"请勿相信片中广告|光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+"sites": [ {"key":"光速资源","name":"🐝请勿相信片中广告|光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml___红牛资源","name":"请勿相信片中广告丨红牛"   ,"type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
 "lives":[{}],
 "parses":[
