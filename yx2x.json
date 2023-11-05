@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "火狐",
-      "name": "🦊主力源",
+      "name": "🦁主力源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -38,10 +38,10 @@
         "欧美动漫"
       ]
     },
- {"key":"csp_xml___光速资源","name":"🐝备用源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+ {"key":"csp_xml___光速资源","name":"🦁备用源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
        {
             "key": "南瓜",
-            "name": "🎃备用源1┃切换NG速播A或NG1线",
+            "name": "🦁备用源1┃切换NG速播A或NG1线",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
