@@ -45,7 +45,7 @@
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
-        }
+        },
  ],
   "parses": [
     {
