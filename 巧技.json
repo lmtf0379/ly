@@ -1,61 +1,61 @@
 {
-  "spider": "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
+  "蜘蛛" : "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" ,
+  "壁纸" : "http://www.kf666888.cn/api/tvbox/img" ,
+  “生活”：[
     {
-      "group": "redirect",
-      "channels": [
+      “组”：“重定向”，
+      “频道”：[
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
+          “姓名”：“活着”，
+          “网址”：[
+            “代理://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA==”
           ]
         }
       ]
     }
-  ],
-  "sites": [
+  ] ,
+  “网站”：[
     {
-      "key": "南瓜",
-      "name": "南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
+      “关键”：“南瓜”，
+      “名称” : “南瓜┃应用程序”，
+      “类型”：3，
+      “api”：“csp_NanGua”，
+      “可搜索”：1，
+      “快速搜索”：1，
+      “玩家类型”：2，
+      “可过滤”：1，
+      “分机”：“”
+    } ,
     {
-      "key": "河马",
-      "name": "河马┃App",
-      "type": 3,
-      "api": "csp_Hmys",
-      "playerType": 1,
-      "ext": "https://m.jmzp.net.cn"
-    },
+      "key" : "河马" ,
+      "name" : "河马┃App" ,
+      “类型”：3，
+      “api”：“csp_Hmys”，
+      “玩家类型”：1，
+      "ext" : "https://m.jmzp.net.cn"
+    } ,
     {
-      "key": "天天",
-      "name": "天天┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn"
-    },
+      "key" : "天天" ,
+      "name" : "天天┃应用" ,
+      “类型”：3，
+      “api”：“csp_TTian”，
+      “玩家类型”：1，
+      "ext" : "http://op.ysdqjs.cn"
+    } ,
     {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-    },
+      "key" : "蝴蝶" ,
+      "name" : "蝴蝶┃App" ,
+      “类型”：3，
+      “api”：“csp_Hudie”，
+      “玩家类型”：2，
+      "ext" : "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    } ,
     {
       "key": "巧技一",
       "name": "巧技一┃App",
-      "type": 3,
+      “类型”：3，
       "api": "csp_qiao2",
-      "playerType": 2,
+      “玩家类型”：2，
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
     },
     {
