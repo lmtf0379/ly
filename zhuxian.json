@@ -71,10 +71,10 @@
         "欧美动漫"
       ]
     },
- {"key":"csp_xml___光速资源","name":"🦁备用源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+ {"key":"csp_xml___光速资源","name":"🦁备用源1","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {
       "key": "一起看 ",
-      "name": "🦁备用源3",
+      "name": "🦁备用源2",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -84,7 +84,7 @@
     },
      {
             "key": "南瓜",
-            "name": "🦁备用源2┃切换NG速播A或NG1线",
+            "name": "🦁备用源3┃切换NG速播A或NG1线",
             "type": 3,
             "api": "https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js",
             "ext": "https://gitee.com/lmtf/kw/raw/main/js/%E5%8D%97%E7%93%9C.js"
