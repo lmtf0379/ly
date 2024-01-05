@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "虎牙",
-      "name": "主线路",
+      "name": "🦁主线路",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -74,7 +74,7 @@
  {"key":"csp_xml___光速资源","name":"🦁备用源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {
       "key": "一起看 ",
-      "name": "备用源3",
+      "name": "🦁备用源3",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
