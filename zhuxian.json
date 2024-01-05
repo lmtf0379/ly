@@ -39,7 +39,8 @@
       ]
     },
  {"key":"csp_xml___光速资源","name":"🦁备用源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-       {
+     {"key":"巧技一","name":"备用源3","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
+    {
             "key": "南瓜",
             "name": "🦁备用源1┃切换NG速播A或NG1线",
             "type": 3,
