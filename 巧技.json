@@ -1,61 +1,61 @@
 {
-  "蜘蛛" : "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b" ,
-  "壁纸" : "http://www.kf666888.cn/api/tvbox/img" ,
-  “生活”：[
+  "spider": "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
     {
-      “组”：“重定向”，
-      “频道”：[
+      "group": "redirect",
+      "channels": [
         {
-          “姓名”：“活着”，
-          “网址”：[
-            “代理://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA==”
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
           ]
         }
       ]
     }
-  ] ,
-  “网站”：[
+  ],
+  "sites": [
     {
-      “关键”：“南瓜”，
-      “名称” : “南瓜┃应用程序”，
-      “类型”：3，
-      “api”：“csp_NanGua”，
-      “可搜索”：1，
-      “快速搜索”：1，
-      “玩家类型”：2，
-      “可过滤”：1，
-      “分机”：“”
-    } ,
+      "key": "南瓜",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
     {
-      "key" : "河马" ,
-      "name" : "河马┃App" ,
-      “类型”：3，
-      “api”：“csp_Hmys”，
-      “玩家类型”：1，
-      "ext" : "https://m.jmzp.net.cn"
-    } ,
+      "key": "河马",
+      "name": "河马┃App",
+      "type": 3,
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn"
+    },
     {
-      "key" : "天天" ,
-      "name" : "天天┃应用" ,
-      “类型”：3，
-      “api”：“csp_TTian”，
-      “玩家类型”：1，
-      "ext" : "http://op.ysdqjs.cn"
-    } ,
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
+    },
     {
-      "key" : "蝴蝶" ,
-      "name" : "蝴蝶┃App" ,
-      “类型”：3，
-      “api”：“csp_Hudie”，
-      “玩家类型”：2，
-      "ext" : "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-    } ,
+      "key": "蝴蝶",
+      "name": "蝴蝶┃App",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
     {
       "key": "巧技一",
       "name": "巧技一┃App",
-      “类型”：3，
+      "type": 3,
       "api": "csp_qiao2",
-      “玩家类型”：2，
+      "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
     },
     {
@@ -595,64 +595,64 @@
         }
       ]
     }
-  ],
-  "ads": [
-    "mimg.0c1q0l.cn",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "xg.huataisangao.cn",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
+  ] ,
+  “广告”：[
+    “mimg.0c1q0l.cn” ,
+    “www.googletagmanager.com”，
+    “www.google-analytics.com”，
+    "mc.usihnbcq.cn" ,
+    "mg.g1mm3d.cn" ,
+    "mscs.svaeuzh.cn" ,
+    "cnzz.hhttm.top" ,
+    “tp.vinuxhome.com”，
+    “cnzz.mmstat.com”，
+    “www.baihuillq.com”，
+    “s23.cnzz.com” ,
+    "z3.cnzz.com" ,
+    "c.cnzz.com" ,
+    “stj.v1vo.top”，
+    “z12.cnzz.com” ,
+    "img.mosflower.cn" ,
+    “tips.gamevvip.com” ,
+    “ehwe.yhdtns.com”，
+    “xdn.cqqc 3.com ”，
+    “www.jixunkyy.cn”，
+    “sp.chemacid.cn”,
+    “hm.baidu.com”，
+    “s 9.cnzz.com ”，
+    “z 6.cnzz.com ”，
+    “um.cavuc.com”，
+    “mav.mavuz.com”，
+    “wofwk.aoidf 3.com ”，
+    “z 5.cnzz.com ”，
+    "xc.hubeijieshikj.cn" ,
+    "tj.tianwenhu.com" ,
+    "xg.gars57.cn" ,
+    “k.锦绣之旅.com” ,
+    “cdn.bootcss.com”，
+    "ppl.xunzhuo123.com" ,
+    “xomk.jianmh.top”，
+    "img.xunzhuo123.com" ,
+    "z1.cnzz.com" ,
+    “s 13.cnzz.com ”，
+    "xg.华泰三高.cn" ,
+    "z7.cnzz.com" ,
+    "xg.华泰三高.cn" ,
+    "z2.cnzz.com" ,
+    “s 96.cnzz.com ”，
+    "q11.cnzz.com" ,
+    "thy.dacedsfa.cn" ,
+    "xg.whsbpw.cn" ,
+    “s 19.cnzz.com ”，
+    "z8.cnzz.com" ,
+    “s 4.cnzz.com ”，
+    “f 5 w.as 12 df.top”，
+    “ae 0 1 .alicdn.com”，
+    “万维网。92424.cn ”,
+    "k.wudejia.com" ,
+    “vivovi.mmszxc.top”，
+    “qiu.xixiqiu.com”，
+    "cdnjs.hnfenxun.com" ,
+    “cms.qdwght.com”
   ]
 }
