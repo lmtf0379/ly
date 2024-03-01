@@ -5,9 +5,21 @@
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
  {"key": "dr_豆瓣","name":"🆙万人空巷抢空调来苏宁易购","type": 3,"api": "https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lmtf/kw/raw/main/lib/douban.js"},
-   {
+
+ {"key":"csp_xml___光速资源","name":"🦁主力源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{
+      "key": "一起看 ",
+      "name": "🦁备用源1",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/mmm2/kw/-/raw/main/lib/一起看.jar?sign=-KAvwDMTjFnwqe_SVxtMSQ_tsPxqTphZJcrv1kdFaFg=:0"
+    },
+    {
       "key": "鑫鑫影视",
-      "name": "🦁主力源",
+      "name": "🦁备用源2",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "https://gitee.com/lmtf/kw/raw/main/lib/xhkwsvip.jar",
@@ -15,18 +27,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-
- {"key":"csp_xml___光速资源","name":"🦁备用源1","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{
-      "key": "一起看 ",
-      "name": "🦁备用源2",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://jihulab.com/mmm2/kw/-/raw/main/lib/一起看.jar?sign=-KAvwDMTjFnwqe_SVxtMSQ_tsPxqTphZJcrv1kdFaFg=:0"
     },
   {"key": "csp_Kuaikan","name": "🦁备用源3","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/lmtf/kw/raw/main/jar/kuaikan.jar"},
      {
