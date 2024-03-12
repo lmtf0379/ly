@@ -7,6 +7,17 @@
  {"key": "dr_豆瓣","name":"🆙万人空巷抢空调来苏宁易购","type": 3,"api": "https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lmtf/kw/raw/main/lib/douban.js"},
 
  {"key":"csp_xml___光速资源","name":"🦁主力源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+ {
+      "key": "石榴影视",
+      "name": "🦁主力源2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lmtf/kw/raw/main/lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/lmtf/ly/raw/main/lib/shiliu.json"
+    },
 {
       "key": "一起看 ",
       "name": "🦁备用源1",
