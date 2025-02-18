@@ -3,6 +3,9 @@
 {
   "spider": "http://box.ufuzi.com/tv/qq/短剧频道/spider.jar",
   "sites": [
+     //讴歌https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv   
+    {"key":"星芽短剧","name":"🐞星芽｜短剧","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"河马短剧","name":"🐞河马｜短剧","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
 //http://ttkx.cc:55/天天开心
           {
       "key": "瓜子",
@@ -23,9 +26,6 @@
       "quickSearch": 1,
       "api": "csp_XiaoMaoApp"
     },
- //讴歌https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv   
-    {"key":"星芽短剧","name":"🐞星芽｜短剧","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"河马短剧","name":"🐞河马｜短剧","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
 //http://www.饭太硬.com/tv
  {
       "key": "可可",
@@ -414,7 +414,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lives/live.txt",
+      "url": "https://gitee.com/kdszb/52kds/raw/kds/lu.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
