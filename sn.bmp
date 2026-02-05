@@ -1,6 +1,6 @@
 {
   "spider": "./lib/ttkx.jar",
-  "logo": "./sn.gif",
+  "logo": "./lib/sn.gif",
   "lives": [
       {
       "name": "苏宁",
