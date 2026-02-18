@@ -174,17 +174,22 @@
      //http://103.163.47.120:666/蓝天/s9doPjDk.jar;md5;329e914a90b0bb5c7cb69b0eaec19700 
     //https://pan.qingyuji.cn/f/2qDVhA/kkk.png;md5;81c5f8cb530bf9c00e60ef9f98d99244 
     //本地/jar/PdhW9yNZ_北极星.jar  
-         {
-      "key": "👌🏻文才",
+{
+      "key": "文才",
       "name": "🔷超音速㈠丨·蓝光",
       "type": 3,
-      "api": "csp_JpysGuard",
       "jar": "https://5326.kstore.space/jar/好.png",
+      "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
+      "ext": {
+        "sp": "Jpys"
+      },
       "timeout": 10
     }, 
+         
  {
       "key": "💐味精移动",
       "name": "🔷超音速㈡丨移动",
@@ -245,9 +250,22 @@
 			"quickSearch": 0,
 			"api": "csp_LiteApple"
 		},*/    
- {"key":"👌🏻小苹果","name":"♻️低速❶丨·有广","jar": "https://5326.kstore.space/jar/好.png","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10}, 
-       
-                                                                 
+
+      {
+      "key": "糯米",
+      "name": "♻️低速❶丨·有广",
+      "type": 3,
+      "jar": "https://5326.kstore.space/jar/好.png",
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys"
+      },
+      "timeout": 10
+    },                                                                    
     
         //本地/jar/ou.jar
  {"key":"💡大米星球","name":"♻️低速❷丨有广","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lmtf/yeyu/raw/master/jar/ou.jar","searchable":1,"quickSearch":0,"filterable":0},
