@@ -2,13 +2,13 @@
   "spider": "./lib/ttkx.jar",
   "logo": "./lib/sn.gif",
   "lives": [
-      {
+      /*{
       "name": "苏宁",
       "type": 0,
       "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+    },*/
      // {
      // "name": "移动",
      // "type": 0,
@@ -27,7 +27,7 @@
     //  "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
    // },
     //这个饭用的头也能用名称小屋https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-    { "name": "苏宁一","url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"},
+    { "name": "苏宁","url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"},
 
   //  {
   //    "name": "龙爪",
@@ -50,7 +50,7 @@
     },*/
 //魔改vip
      {
-      "name": "苏宁二",
+      "name": "苏宁一",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
@@ -60,7 +60,7 @@
     },
     //魔改
             {
-      "name": "苏宁三",
+      "name": "苏宁二",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
       "ua": "okhttp/3.15",
