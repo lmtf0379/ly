@@ -318,7 +318,8 @@
     {"key":"快看失效","name":"片中广告请勿相信","type":3,"api":"csp_Kuaikan","jar":"https://gitee.com/lmtf/kw/raw/main/jar/ou.jar","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"明日失效","name":"片中字幕请勿相信","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/lmtf/kw/raw/main/jar/ou.jar","searchable":1,"changeable":1},
    {"key":"drpy_js_567","name":"🎦片中有广勿信","type":3,"api":"https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","ext":"https://gitee.com/lmtf/kw/raw/main/lib/567%E7%94%B5%E5%BD%B1%E9%99%A2.js"},
-    {"key":"csp_Ikanbot","name": "👾片中字幕勿信","type": 3,"api": "csp_Ikanbot","jar": "https://gitee.com/lmtf/kw/raw/main/jar/xingchenspider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
+//https://gitee.com/lmtf/kw/raw/main/jar/xingchenspider.jar
+    {"key":"csp_Ikanbot","name": "👾片中字幕勿信","type": 3,"api": "csp_Ikanbot","jar": "./lib/xxs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
   ],
   "parses": [
     {
