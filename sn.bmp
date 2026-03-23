@@ -91,7 +91,7 @@
       "filterable": 0,
       "ext": "https://gitee.com/l*tf/kw/raw/main/lib/douban.js"
     },*/
-      {
+     /* {
       "key": "💎DG还行",
       "name": "❤️超光速一丨秒播",
       "type": 3,
@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
+    },*/
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
      {
       "key": "🌾瓜子影视",
