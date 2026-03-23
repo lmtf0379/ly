@@ -100,6 +100,18 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },*/
+ {
+            "name": "❤️光速一|秒播",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json"
+        },
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
      {
       "key": "🌾瓜子影视",
