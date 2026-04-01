@@ -100,7 +100,7 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },*/
- {
+/* {
             "name": "❤️光速一|秒播",
             "key": "Dubk",
             "type": 3,
@@ -111,7 +111,18 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json"
-        },
+        },*/
+
+ {
+         "key": "裤佬独播JS",
+         "name": "❤️光速一丨秒播",
+         "type": 3,
+         "api": "https://mpimg.cn/down.php/fbe5493683cbef26437721513d495d7d.js",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1
+ },
+
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
      {
       "key": "🌾瓜子影视",
