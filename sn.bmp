@@ -243,6 +243,7 @@
         "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
       }
     },
+//jar失效
    {
          "key": "🌾热播影视",
          "name": "⭐️高速①丨*弹幕",
@@ -253,7 +254,23 @@
          "quickSearch": 1,
          "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
        },  
-       
+{
+       "key": "👌🏻热播",
+       "name": "♻️低速❶┃·热播",
+       "type": 3,
+       "jar": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/b9802990a6cff89099e65bc7bd65813c.jpg",
+       "api": "csp_AweSomeGuard",
+       "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "ext": {
+                  "sp": "TianTian",
+                  "site": 0
+                    },
+                   "timeout": 10
+},
+   //jar失效    
   {
 		"key": "csp_Jpys🌾",
 		"name": "⭐️高速②丨*备用",
@@ -274,7 +291,7 @@
 			"api": "csp_LiteApple"
 		},*/    
 
-      {
+      /*{
       "key": "糯米",
       "name": "♻️低速❶丨·有广",
       "type": 3,
@@ -288,7 +305,7 @@
         "sp": "Nmys"
       },
       "timeout": 10
-    },                                                                    
+    },*/                                                                    
     
         //本地/jar/ou.jar
  {"key":"💡大米星球","name":"♻️低速❷丨有广","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lmtf/yeyu/raw/master/jar/ou.jar","searchable":1,"quickSearch":0,"filterable":0},
@@ -340,7 +357,7 @@
 },*/
     {"key":"快看失效","name":"片中广告请勿相信","type":3,"api":"csp_Kuaikan","jar":"https://gitee.com/lmtf/kw/raw/main/jar/ou.jar","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"明日失效","name":"片中字幕请勿相信","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/lmtf/kw/raw/main/jar/ou.jar","searchable":1,"changeable":1},
-   {"key":"drpy_js_567","name":"🎦片中有广勿信","type":3,"api":"https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","ext":"https://gitee.com/lmtf/kw/raw/main/lib/567%E7%94%B5%E5%BD%B1%E9%99%A2.js"},
+   /*{"key":"drpy_js_567","name":"🎦片中有广勿信","type":3,"api":"https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","ext":"https://gitee.com/lmtf/kw/raw/main/lib/567%E7%94%B5%E5%BD%B1%E9%99%A2.js"},*/
 //https://gitee.com/lmtf/kw/raw/main/jar/xingchenspider.jar
     {"key":"csp_Ikanbot","name": "👾片中字幕勿信","type": 3,"api": "csp_Ikanbot","jar": "./lib/xxs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
   ],
