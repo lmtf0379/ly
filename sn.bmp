@@ -222,7 +222,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+    /*{
       "key": "NYa-emby",
       "name": "🔷超音速㈢丨超清",
       "type": 3,
@@ -242,7 +242,8 @@
         "client_version": "0.3.2",
         "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
       }
-    },
+    },*/
+
 //jar失效
    {
          "key": "🌾热播影视",
