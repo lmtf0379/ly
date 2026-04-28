@@ -124,10 +124,11 @@
  },
 
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
-     {
+    //abc下岗用26428包 
+{
       "key": "🌾瓜子影视",
       "name": "❤️超光速二丨*全天不卡",
-      "jar": "https://img2.gelonghui.com/library/08dec-8b810c34-0b63-42ef-9434-37e71a46c3bc.png;md5;08dec7b2fd1ecdc592b4fe7bce9e93df",
+      "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -163,11 +164,12 @@
      "分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html;;ak",
      "分类":"电影$1#电视剧$2#综艺$4#动漫$3"}
      },*/
-     
+
+//abc下岗新26428包
      {
 		"key": "csp_WWYS",
 		"name": "🌾测试丨*有广",
-		"jar": "https://img2.gelonghui.com/library/08dec-8b810c34-0b63-42ef-9434-37e71a46c3bc.png;md5;08dec7b2fd1ecdc592b4fe7bce9e93df",
+		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
 		"type": 3,
 		"api": "csp_Wwys",
 		"ext": "https://vip.wwgz.cn:5200"
@@ -244,11 +246,11 @@
       }
     },*/
 
-//jar失效
+//用26428包
    {
          "key": "🌾热播影视",
          "name": "⭐️高速①丨*弹幕",
-         "jar": "https://img2.gelonghui.com/library/08dec-8b810c34-0b63-42ef-9434-37e71a46c3bc.png;md5;08dec7b2fd1ecdc592b4fe7bce9e93df",
+         "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
          "type": 3,
          "api": "csp_AppRJ",
          "searchable": 1,
@@ -271,11 +273,11 @@
                     },
                    "timeout": 10
 },
-   //jar失效    
+   //用26428    
   {
 		"key": "csp_Jpys🌾",
 		"name": "⭐️高速②丨*备用",
-		"jar": "https://img2.gelonghui.com/library/08dec-8b810c34-0b63-42ef-9434-37e71a46c3bc.png;md5;08dec7b2fd1ecdc592b4fe7bce9e93df",
+		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
 		"type": 3,
 		"quickSearch": 1,
 		"api": "csp_Jpys"
