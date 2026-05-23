@@ -212,9 +212,17 @@
       "filterable": 1,
       "ext": "http://cmstt.lyyytv.cn/api.php/app/"
     },
-     //251124版
-     {"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},    
- 
+     //251124版259壳不能用
+     /*{"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/    
+
+{
+      "key": "🐅jarcai",
+      "name": "🔷超音速㈠|蓝光",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "type": 3,
+      "api": "csp_Wcai",
+      "ext": "https://www.jxshdzs.com/"
+    },
 {
       "key": "💐味精移动",
       "name": "🔷超音速㈡丨移动",
@@ -277,27 +285,10 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"api": "csp_LiteApple"
-		},*/    
-
-      /*{
-      "key": "糯米",
-      "name": "♻️低速❶丨·有广",
-      "type": 3,
-      "jar": "https://5326.kstore.space/jar/好.png",
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys"
-      },
-      "timeout": 10
-    },*/                                                                    
+		},*/                                                                     
     
         //本地/jar/ou.jar
- {"key":"💡大米星球","name":"♻️低速❷丨有广","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lmtf/yeyu/raw/master/jar/ou.jar","searchable":1,"quickSearch":0,"filterable":0},
-      
+ {"key":"💡大米星球","name":"♻️低速❶丨有广","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lmtf/yeyu/raw/master/jar/ou.jar","searchable":1,"quickSearch":0,"filterable":0},
 
 /*{
 "key": "csp_cally失效",
