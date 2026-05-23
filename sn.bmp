@@ -212,26 +212,10 @@
       "filterable": 1,
       "ext": "http://cmstt.lyyytv.cn/api.php/app/"
     },
-     //http://103.163.47.120:666/蓝天/s9doPjDk.jar;md5;329e914a90b0bb5c7cb69b0eaec19700 
-    //https://pan.qingyuji.cn/f/2qDVhA/kkk.png;md5;81c5f8cb530bf9c00e60ef9f98d99244 
-    //本地/jar/PdhW9yNZ_北极星.jar  
+     //251124版
+     {"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},    
+ 
 {
-      "key": "文才",
-      "name": "🔷超音速㈠丨·蓝光",
-      "type": 3,
-      "jar": "https://5326.kstore.space/jar/好.png",
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Jpys"
-      },
-      "timeout": 10
-    }, 
-         
- {
       "key": "💐味精移动",
       "name": "🔷超音速㈡丨移动",
       "type": 3,
