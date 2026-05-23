@@ -91,6 +91,7 @@
       "filterable": 0,
       "ext": "https://gitee.com/l*tf/kw/raw/main/lib/douban.js"
     },*/
+//失效
      /* {
       "key": "💎DG还行",
       "name": "❤️超光速一丨秒播",
@@ -136,11 +137,26 @@
       "filterable": 1
     },
     /*{"key":"瓜子","name":"👌🏻晚上不卡","type": 3,"api":"csp_GuaziGuard","jar": "https://5326.kstore.space/jar/vfhhyWXx.png","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},*/
+//515豆包js
+{
+            "key": "猫头鹰",
+            "name": "❤️光速三┃秒播",
+            "type": 3,
+            "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+            "searchable": 1,
+            "ext": {
+                "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "key": "zxPtEUDGVllIUhDB",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
 
     //用的米jar本地/jar/071.png
    /*{
 			"key": "🌾巧技",
-			"name": "❤️超光速三丨备用",
+			"name": "❤️光速四丨备用",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 0,
@@ -168,7 +184,7 @@
 //abc下岗新26428包
      {
 		"key": "csp_WWYS",
-		"name": "🌾测试丨*有广",
+		"name": "🌾备用丨*有广",
 		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
 		"type": 3,
 		"api": "csp_Wwys",
@@ -257,22 +273,7 @@
          "quickSearch": 1,
          "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
        },  
-{
-       "key": "👌🏻热播",
-       "name": "♻️低速❶┃·热播",
-       "type": 3,
-       "jar": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/b9802990a6cff89099e65bc7bd65813c.jpg",
-       "api": "csp_AweSomeGuard",
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1,
-       "filterable": 1,
-       "ext": {
-                  "sp": "TianTian",
-                  "site": 0
-                    },
-                   "timeout": 10
-},
+
    //用26428    
   {
 		"key": "csp_Jpys🌾",
