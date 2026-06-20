@@ -187,7 +187,7 @@
 //abc下岗新26428包
      {
 		"key": "csp_WWYS",
-		"name": "🌾备用丨*有广",
+		"name": "⭐️备用丨*有广",
 		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
 		"type": 3,
 		"api": "csp_Wwys",
@@ -209,14 +209,14 @@
      /*{"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/    
 
 //虎斑251027
-{
+/*{
       "key": "🐅jarcai",
       "name": "🔷超音速㈠|蓝光",
       "jar": "https://fastlink.cokey.xyz/f/wr3pTj/hb2664custom_spider.jar",
       "type": 3,
       "api": "csp_Wcai",
       "ext": "https://www.jxshdzs.com/"
-    },
+    },*/
 /*{
       "key": "💐味精移动",
       "name": "🔷超音速㈡丨移动",
@@ -260,15 +260,18 @@
          "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
        },  
 
-   //用26428    
-  {
-		"key": "csp_Jpys🌾",
-		"name": "⭐️高速②丨*备用",
-		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
-		"type": 3,
-		"quickSearch": 1,
-		"api": "csp_Jpys"
-	},
+//226620版
+{
+            "key": "csp_Jpys",
+            "name": "⭐️高清②┃*备用",
+            "jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com"
+        },
 /*{"key":"欧歌金牌","name":"💡高速②","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/
 
   /* {
