@@ -208,6 +208,19 @@
      //251124版259壳不能用
      /*{"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/    
 
+//26629
+{
+            "key": "豆包枫叶js",
+            "name": "🔷超清丨🅙4K",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/k06xf6/%E8%B1%86%E5%8C%85%E6%9E%AB%E5%8F%B6.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playable": 1
+        },
+
 //虎斑251027
 /*{
       "key": "🐅jarcai",
