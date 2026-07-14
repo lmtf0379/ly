@@ -199,11 +199,12 @@
      "分类":"电影$1#电视剧$2#综艺$4#动漫$3"}
      },*/
 
-//abc下岗新26428包
+//abc下岗上个26428包https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181
+//新26714包
      {
 		"key": "csp_WWYS",
 		"name": "⭐️备用丨*有广",
-		"jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
+		"jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
 		"type": 3,
 		"api": "csp_Wwys",
 		"ext": "https://vip.wwgz.cn:5200"
@@ -276,11 +277,12 @@
       }
     },*/
 
-//用26428包
+//26428包下岗https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181
+//用新26714
    {
          "key": "🌾热播影视",
          "name": "⭐️高速①丨*弹幕",
-         "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
+         "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
          "type": 3,
          "api": "csp_AppRJ",
          "searchable": 1,
@@ -288,11 +290,12 @@
          "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
        },  
 
-//226620版
+//下岗26620版https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3
+//新26714
 {
             "key": "csp_Jpys",
             "name": "⭐️高清②┃*备用",
-            "jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
+            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
             "type": 3,
             "timeout": 12,
             "searchable": 1,
