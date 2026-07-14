@@ -126,7 +126,7 @@
 
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
     //abc下岗用26428包 
-{
+/*{
       "key": "🌾瓜子影视",
       "name": "❤️超光速二丨*全天不卡",
       "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
@@ -135,7 +135,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },*/
+
+//🦹🏻‍♂️26714
+{
+            "name": "❤️光速二|全天不卡",
+            "jar": "https://zl.wpscdn.cn/2026/07/11/space_img/64dea739-dfa3-4797-b25a-68c47f222e0a.png;md5;dd6fbafde59756e7f5043a20c74b1961",
+            "key": "Guazi",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sites": "",
+                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+            }
+        },
+
     /*{"key":"瓜子","name":"👌🏻晚上不卡","type": 3,"api":"csp_GuaziGuard","jar": "https://5326.kstore.space/jar/vfhhyWXx.png","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},*/
 //db👩🏻‍💼515js，这个是getjs
 /*{
