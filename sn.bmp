@@ -125,11 +125,11 @@
  },
 
      //上版带米https://fly.qingyuji.cn/f/Rj7BUa/0919-1.zip;md5;724d886bff3678ff154973d2bc1834ef
-    //abc下岗用26428包 
+    //abc下岗26428包下岗用新26716
 /*{
       "key": "🌾瓜子影视",
       "name": "❤️超光速二丨*全天不卡",
-      "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
+      "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -218,14 +218,14 @@
 
 //abc下岗上个26428包https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181
 //新26714包
-     {
+    /* {
 		"key": "csp_WWYS",
 		"name": "⭐️备用丨*有广",
 		"jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
 		"type": 3,
 		"api": "csp_Wwys",
 		"ext": "https://vip.wwgz.cn:5200"
-		},
+		},*/
  
    /*{"key": "csp_XYQHiker_农民影视","name":"🍈备用","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main//XYQHiker/农民影视.json"},*/
    /* {
@@ -295,8 +295,8 @@
     },*/
 
 //26428包下岗https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181
-//用新26714
-   {
+//用
+   /*{
          "key": "🌾热播影视",
          "name": "⭐️高速①丨*弹幕",
          "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-JmRa9APut9aGqC1f31GJN.zip;md5;4f72b8ae71ea963b29747cabf54a0181",
@@ -305,14 +305,24 @@
          "searchable": 1,
          "quickSearch": 1,
          "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
-       },  
+       },*/  
+
+//用26716
+{
+      "key": "🌾麦田",
+      "name": "⭐️高清①┃高清",
+      "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php"
+    },
 
 //下岗26620版https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3
-//新26714
+//新26716
 {
             "key": "csp_Jpys",
             "name": "⭐️高清②┃*备用",
-            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8",
             "type": 3,
             "timeout": 12,
             "searchable": 1,
@@ -321,6 +331,29 @@
             "ext": "https://y2s52n7.com"
         },
 /*{"key":"欧歌金牌","name":"💡高速②","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/
+
+//用26716
+{
+      "key": "🌾橘汁",
+      "name": "⭐️高清③┃影视",
+"jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.1",
+        "decrypt": "1"
+      }
+    },
 
   /* {
 			"key": "csp_LiteApple",
