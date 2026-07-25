@@ -170,19 +170,20 @@
             }
         },*/
 //26629db👩🏻‍💼这个也是getjs四叶草失效
-  /*{
-            "key": "天神爱影",
+//🌾和天神
+  {
+            "key": "🌾爱影",
             "name": "❤️光速三丨临时",
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/E5BotX/%E5%9B%9B%E5%8F%B6%E8%8D%89.js",
             "ext": {
-                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-                "key": "nzEqOgYk3QzHuEP8",
+                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
+                "key": "C0UKM8jkasM8tdzgW",
                 "init": "V122",
                 "api": 2,
                 "ua": "okhttp/3.10.0"
             }
-        },*/
+        },
 
 //26714aw🦹🏻‍♂️
 {"name":"❤️超光速四丨秒播","key":"AppV6Tg","type":3,"api":"csp_AppV6Amns",
