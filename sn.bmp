@@ -253,6 +253,20 @@
             }
         },*/
 
+{
+            "key": "🏹兴和",
+            "name": "🔷超清⑴丨临时",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/E5BotX/%E5%9B%9B%E5%8F%B6%E8%8D%89.js",
+            "ext": {
+                "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+                "key": "kj37zs29q22jk96t",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+
      //251124版259壳不能用
      /*{"key":"💡欧金牌","name":"🔷超音速㈠｜影视","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/    
 
