@@ -267,12 +267,24 @@
             }
         },*/
 
-//👩🏻‍💼26815
- {
+//👩🏻‍💼26815版259不能用
+ /*{
             "key": "一个影视",
             "name": "🔷高清丨🅙",
             "type": 3,
             "api": "https://pan.szfx.top/down.php/a248e40581382b39bd1429fe3edfc19a.js"
+        },*/
+
+//🐱26818
+{
+            "key": "🐱极影",
+            "name": "🔷高清丨🅶",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
         },
 
      //251124版259壳不能用
