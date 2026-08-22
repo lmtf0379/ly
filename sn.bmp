@@ -80,10 +80,12 @@
       "filterable": 0,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
     },
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,
+
+/*{"key": "应用商店","name": "🛒影视应用商店","type": 3,
 "jar":"./lib/xxs.png",
 "api": "csp_Market","searchable": 0,"changeable": 0,
-  "ext": "https://wp.kayyw.com/f/J7jnux/market2.json"},
+  "ext": "https://wp.kayyw.com/f/J7jnux/market2.json"},*/
+
     //min.js里面的加速头失效了
    /* {
       "key": "js_豆瓣热播",
