@@ -28,7 +28,8 @@
     },
 
     //这个饭用的头也能用名称小屋https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-    { "name": "苏宁","url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"}
+  //小屋上面版失效仓库地址https://github.com/develop202
+{ "name": "苏宁咪咕","url": "http://www.52top.com.cn:678/downloads/migu.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"}
 
   //  {
   //    "name": "龙爪",
