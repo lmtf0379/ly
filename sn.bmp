@@ -18,14 +18,15 @@
      // "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
    // },
     
-   // {
-   //   "name": "梅州",
-   //   "type": 0,
-   //   "url": "https://103.115.40.138:6164/down/k4Aj0TlH3wax",
-   //   "playerType": 1,
-   //   "ua": "okhttp/3.15",
-    //  "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
-   // },
+   {
+      "name": "咪咕",
+     "type": 0,
+      "url": "http://xy.183933.xyz/zb/zb.txt",
+      "playerType": 1,
+     "ua": "okhttp/3.15",
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    },
+
     //这个饭用的头也能用名称小屋https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
     { "name": "苏宁","url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"}
 
