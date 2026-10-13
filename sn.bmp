@@ -390,28 +390,16 @@
 
 /*{"key":"欧歌金牌","name":"💡高速②","jar": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},*/
 
-//用26716
+//秋水自己制作
 {
-      "key": "🌾橘汁",
-      "name": "⭐️高清③┃*蓝光",
-"jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "commonKey": "ed5fdsgucxumegqa",
-                "pkg": "com.mxj.wylcjbxyx",
-                "host": "http://juziapp.hzhcbkj.cn",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.3",
-                "decrypt": "1"
-      }
+        "key": "懂片帝[js]",
+        "name": "⭐️高清③丨🅙",
+        "type": 3,
+        "api": "./lib/drpy3.bundle.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://wp.kayyw.com/f/bJDMIv/%E6%87%82%E7%89%87%E5%B8%9DAI.js"
     },
 
   /* {
@@ -475,8 +463,8 @@
    /* {"key":"明日失效","name":"片中字幕请勿相信","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/lmtf/kw/raw/main/jar/ou.jar","searchable":1,"changeable":1},*/
    /*{"key":"drpy_js_567","name":"🎦片中有广勿信","type":3,"api":"https://gitee.com/lmtf/kw/raw/main/lib/drpy.min.js","ext":"https://gitee.com/lmtf/kw/raw/main/lib/567%E7%94%B5%E5%BD%B1%E9%99%A2.js"},*/
 
-//https://gitee.com/lmtf/kw/raw/main/jar/xingchenspider.jar
-    {"key":"csp_Ikanbot","name": "👾片中字幕请勿相信","type": 3,"api": "csp_Ikanbot","jar": "./lib/xxs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
+//https://gitee.com/lmtf/kw/raw/main/jar/xingchenspider.jar只有360zy把api的Ikanbot改了隐藏
+    {"key":"csp_Ikanbot","name": "👾片中字幕请勿相信","type": 3,"api": "csp_Ikan","jar": "./lib/xxs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"}
   ],
   "parses": [
     {
